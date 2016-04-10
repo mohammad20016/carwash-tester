@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "club.mobilecarwash.www"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "club.mobilecarwash.www"
+        },
+        "com.paypal.cordova.mobilesdk": {
+            "PACKAGE_NAME": "club.mobilecarwash.www"
+        },
+        "com.paypal.sdk.phonegap": {
+            "PACKAGE_NAME": "club.mobilecarwash.www"
+        }
+    },
+    "dependent_plugins": {}
+}
